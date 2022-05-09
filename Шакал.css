@@ -30,7 +30,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 552px;
-  background-image: url("images/1.webp");
+  background-image: url("images/a.jpg");
   background-position: 50% 50%;
 }
 
@@ -127,7 +127,7 @@
 }
 
 .u-section-2 .u-image-2 {
-  background-image: url("images/3.webp");
+  background-image: url("images/c.jpg");
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -135,7 +135,7 @@
 }
 
 .u-section-2 .u-image-3 {
-  background-image: url("images/4.webp");
+  background-image: url("images/d.jpg");
 }
 
 .u-section-2 .u-container-layout-3 {
